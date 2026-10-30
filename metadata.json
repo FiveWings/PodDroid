@@ -1,0 +1,6 @@
+{
+  "name": "PodDroid",
+  "description": "Apple Podcasts WebView wrapper with Chromium MediaSession integration, Android system media player controls, and Android Autofill & Password Manager support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

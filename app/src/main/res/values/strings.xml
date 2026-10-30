@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PodDroid</string>
+    <string name="notification_channel_name">Podcast Playback</string>
+    <string name="notification_channel_desc">Controls for active Apple Podcasts web playback</string>
+    <string name="url_apple_podcasts_home">https://podcasts.apple.com</string>
+    <string name="url_apple_podcasts_browse">https://podcasts.apple.com/us/browse</string>
+    <string name="url_apple_podcasts_charts">https://podcasts.apple.com/us/charts</string>
+    <string name="url_apple_podcasts_search">https://podcasts.apple.com/us/search</string>
+    <string name="nav_home">Listen Now</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_charts">Top Charts</string>
+    <string name="nav_bookmarks">Saved</string>
+    <string name="nav_credentials">Passkeys &amp; Autofill</string>
+    <string name="action_back">Navigate Back</string>
+    <string name="action_forward">Navigate Forward</string>
+    <string name="action_reload">Reload Page</string>
+    <string name="action_autofill">Trigger Android Password Manager</string>
+    <string name="action_Save_bookmark">Bookmark Current Page</string>
+    <string name="action_play_pause">Play or Pause</string>
+    <string name="action_skip_back">Rewind 15 seconds</string>
+    <string name="action_skip_forward">Fast forward 30 seconds</string>
+    <string name="action_playback_speed">Change playback speed</string>
+    <string name="action_sleep_timer">Sleep Timer</string>
+    <string name="action_desktop_mode">Toggle Desktop Site</string>
+    <string name="media_idle_title">Ready to Stream</string>
+    <string name="media_idle_artist">Select any episode on Apple Podcasts</string>
+    <string name="autofill_banner_title">Android Password Manager &amp; Passkeys Active</string>
+    <string name="autofill_banner_subtitle">Native Android Autofill, WebAuthn Passkeys, and Credential Manager are bridged to Apple ID sign-in forms.</string>
+</resources>
